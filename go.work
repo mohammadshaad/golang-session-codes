@@ -1,0 +1,13 @@
+go 1.21.0
+
+use (
+	.
+	./buildapi
+	./myarrays
+	./myfunctions
+	./mymap
+	./mypointers
+	./myslices
+	./myuserinputs
+	./switch
+)
